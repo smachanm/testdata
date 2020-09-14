@@ -9,21 +9,24 @@
         "duration": 72,
         "switchCode": "SW3",
         "direction": "Out",
-        "number": "(00) 88542069"
+        "number": "(00) 88542069",
+        "subrecord": [{"one":"two","three":"four"}]
     }, {
         "name": "susan",
         "callId": 556,
         "duration": 61,
         "switchCode": "SW3",
         "direction": "In",
-        "number": "(01) 7432576"
+        "number": "(01) 7432576",
+        "subrecord": [{"one":"two","three":"four"}]
     }, {
         "name": "susan",
         "callId": 557,
         "duration": 90,
         "switchCode": "SW5",
         "direction": "In",
-        "number": "(09) 76105491"
+        "number": "(09) 76105491",
+        "subrecord": [{"one":"two","three":"four"}]
     }, {
         "name": "susan",
         "callId": 558,
