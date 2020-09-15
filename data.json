@@ -10,7 +10,7 @@
         "switchCode": "SW3",
         "direction": "Out",
         "number": "(00) 88542069",
-        "subrecord": [{"one":"two","three":"four"}]
+        "subrecord": [{"one":"two","three":"four"},{"one":"five","three":"six"}]
     }, {
         "name": "susan",
         "callId": 556,
